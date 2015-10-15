@@ -1,5 +1,6 @@
 node_modules/*
-scripts/*.bz2
-scripts/*.json
-scripts/*.csv
-scripts/dump/*
+scripts/*
+!scripts/enron.py
+!scripts/rank.js
+!scripts/fake-email-data.sh
+!scripts/requirements.txt
