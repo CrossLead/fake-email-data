@@ -6,6 +6,7 @@
 #
 import csv
 import json
+import pymongo as pm
 from dateutil.parser import parse
 
 def employees(filename='./employees.txt'):
