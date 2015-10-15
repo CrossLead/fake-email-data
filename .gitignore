@@ -1,1 +1,5 @@
 node_modules/*
+scripts/*.bz2
+scripts/*.json
+scripts/*.csv
+scripts/dump/*
