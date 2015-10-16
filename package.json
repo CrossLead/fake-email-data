@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gak": "0.0.5"
+    "d3": "^3.5.6",
+    "gak": "0.0.5",
+    "lodash": "^3.10.1",
+    "moment": "^2.10.6",
+    "progress": "^1.1.8"
   }
 }

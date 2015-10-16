@@ -1,6 +1,7 @@
 node_modules/*
 scripts/*
-!scripts/enron.py
-!scripts/rank.js
-!scripts/fake-email-data.sh
+!scripts/*.py
+!scripts/*.js
+!scripts/*.sh
+!scripts/*.ipynb
 !scripts/requirements.txt
