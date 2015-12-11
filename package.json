@@ -9,10 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "commander": "^2.9.0",
     "d3": "^3.5.6",
     "gak": "0.0.5",
     "lodash": "^3.10.1",
     "moment": "^2.10.6",
-    "progress": "^1.1.8"
+    "progress": "^1.1.8",
+    "promised-mongo": "^1.2.0"
   }
 }

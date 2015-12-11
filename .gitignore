@@ -1,7 +1,5 @@
 node_modules/*
-scripts/*
-!scripts/*.py
-!scripts/*.js
-!scripts/*.sh
-!scripts/*.ipynb
-!scripts/requirements.txt
+*.json
+!package.json
+dump/*
+enron_mail/*

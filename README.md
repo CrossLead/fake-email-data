@@ -5,9 +5,8 @@ the [EventRank algorithm](http://www.datalab.uci.edu/papers/linkkdd05-02.pdf) th
 
 ### Requirements
 
+- Mongodb
 - [NodeJS >= 0.10](https://nodejs.org/en/)
-- [Python 3 + pip](https://www.python.org/downloads/)
-- Bash/sh shell
 
 Steps...
 
